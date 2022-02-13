@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=BillKerman.readme)
 
 ![info](https://github-readme-stats.vercel.app/api?username=BillKerman&show_icons=true&count_private=true&hide=prs&theme=dracula)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BillKerman&theme=dark)
