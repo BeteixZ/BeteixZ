@@ -19,3 +19,7 @@ Is A+ that easy?
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BillKerman&theme=dark)
 
 GitHub should not count lines of .nb file!
+
+<!-- waka-box start -->
+ <!-- waka-box end -->
+
