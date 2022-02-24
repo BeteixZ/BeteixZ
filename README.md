@@ -23,3 +23,4 @@ GitHub should not count lines of .nb file!
 <!-- waka-box start -->
  <!-- waka-box end -->
 
+[![wakatime](https://wakatime.com/badge/user/8fdc30f4-b81f-446f-9b1d-b31833ed1004/project/521693dc-228d-4407-84f7-c756f4e4aa4e.svg)](https://wakatime.com/badge/user/8fdc30f4-b81f-446f-9b1d-b31833ed1004/project/521693dc-228d-4407-84f7-c756f4e4aa4e)
