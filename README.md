@@ -12,6 +12,9 @@
 
 ☝️9/10 myself.
 
+[![wakatime](https://wakatime.com/badge/user/8fdc30f4-b81f-446f-9b1d-b31833ed1004.svg)](https://wakatime.com/@8fdc30f4-b81f-446f-9b1d-b31833ed1004.svg)
+
+
 ![info](https://github-readme-stats.vercel.app/api?username=BillKerman&show_icons=true&count_private=true&hide=prs&theme=dracula)
 
 Is A+ that easy?
@@ -22,5 +25,3 @@ GitHub should not count lines of .nb file!
 
 <!-- waka-box start -->
  <!-- waka-box end -->
-
-[![wakatime](https://wakatime.com/badge/user/8fdc30f4-b81f-446f-9b1d-b31833ed1004/project/521693dc-228d-4407-84f7-c756f4e4aa4e.svg)](https://wakatime.com/badge/user/8fdc30f4-b81f-446f-9b1d-b31833ed1004/project/521693dc-228d-4407-84f7-c756f4e4aa4e)
