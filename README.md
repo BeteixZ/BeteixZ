@@ -15,13 +15,10 @@
 [![wakatime](https://wakatime.com/badge/user/8fdc30f4-b81f-446f-9b1d-b31833ed1004.svg)](https://wakatime.com/@8fdc30f4-b81f-446f-9b1d-b31833ed1004.svg)
 
 
-![info](https://github-readme-stats.vercel.app/api?username=BillKerman&show_icons=true&count_private=true&hide=prs&theme=dracula)
+![info](https://github-readme-stats.vercel.app/api?username=BeteixZ&show_icons=true&count_private=true&hide=prs&theme=dracula)
 
 Fine...
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BillKerman&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeteixZ&theme=dark)
 
 GitHub should not count lines of .nb file!
-
-<!-- waka-box start -->
- <!-- waka-box end -->
