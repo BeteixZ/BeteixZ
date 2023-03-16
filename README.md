@@ -21,4 +21,6 @@ Fine...
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeteixZ&theme=dark)
 
-GitHub should not count lines of .nb file!
+GitHub should not count lines of .nb file.
+
+![Metrics](https://metrics.lecoq.io/BeteixZ)
