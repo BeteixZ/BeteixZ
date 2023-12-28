@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some fun stuffs (do I?);
+- 🔭 I’m currently working on some fun stuffs (Am I?);
 - 🌱 I’m currently learning PETSc, Numerical PDEs and some other exciting stuffs;
 - 🤔 I’m looking for help with how to simplify anything, literally anything, my life is too messy;
 - 💬 Ask me about Mathematica;
