@@ -18,4 +18,4 @@
 
 GitHub should not count lines of .nb file!
 
-![Metrics](https://metrics.lecoq.io/BeteixZ)
+![Metrics](/github-metrics.svg)
