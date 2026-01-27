@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some fun stuff (Am I?);
 - 🌱 I’m currently learning PETSc, Numerical PDEs, and some other exciting stuff;
-- 🤔 I’m looking for help with how to simplify anything, literally anything, my life is too messy;
-- 💬 Ask me about Mathematica;
-- ⚡ Fun fact: I sometimes want to be alone.
+- 🤔 I’m looking for help with how to simplify anything;
+- 💬 Ask me about Mathematica.
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=BillKerman.readme)
+           ![visitors](https://visitor-badge.laobi.icu/badge?BeteixZ=page.id)
 
 ☝️9/10 myself. (This badge won't show up sometimes.)
 
