@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with how to simplify anything;
 - 💬 Ask me about Mathematica.
 
-           ![visitors](https://visitor-badge.laobi.icu/badge?BeteixZ=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=BeteixZ.visitor-badge)
 
 ☝️9/10 myself. (This badge won't show up sometimes.)
 
