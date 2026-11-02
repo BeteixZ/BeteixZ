@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="366" viewBox="0 0 420 366" role="img" aria-labelledby="title desc">
+<title id="title">Recent listening · Beteix on ListenBrainz</title>
+<desc id="desc">Lover by Rocky Block, 2026-11-02 10:12 UTC; lacy by Olivia Rodrigo, 2026-11-02 10:09 UTC; doomsday by Lizzy McAlpine, 2026-11-02 10:05 UTC</desc>
+<style>.bg{fill:#1a1e26}.text{fill:#d8dce3}.muted{fill:#9aa3ae}.accent{fill:#77c6a5}.warm{fill:#d0aa7a}.border{fill:#363d49}</style>
+<rect x="0.5" y="0.5" width="419" height="365" rx="8" fill="#1a1e26" stroke="#363d49"/>
+<defs><clipPath id="mobile-names"><rect x="24" y="48" width="372" height="260"/></clipPath></defs>
+<text x="24" y="32" class="accent" font-size="12" font-weight="600" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">RECENT SCROBBLES</text>
+<text x="396" y="32" class="muted" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">LISTENBRAINZ</text>
+<text x="24" y="78" class="text" font-size="24" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#mobile-names)">Lover</text>
+<text x="24" y="103" class="muted" font-size="17" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#mobile-names)">Rocky Block</text>
+<text x="24" y="123" class="warm" font-size="12" font-weight="400" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">02 Nov 2026 · 10:12 UTC</text>
+<text x="24" y="166" class="text" font-size="24" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#mobile-names)">lacy</text>
+<text x="24" y="191" class="muted" font-size="17" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#mobile-names)">Olivia Rodrigo</text>
+<text x="24" y="211" class="warm" font-size="12" font-weight="400" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">02 Nov 2026 · 10:09 UTC</text>
+<text x="24" y="254" class="text" font-size="24" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#mobile-names)">doomsday</text>
+<text x="24" y="279" class="muted" font-size="17" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#mobile-names)">Lizzy McAlpine</text>
+<text x="24" y="299" class="warm" font-size="12" font-weight="400" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">02 Nov 2026 · 10:05 UTC</text>
+<path d="M24 318H396" stroke="#363d49"/>
+<text x="24" y="342" class="muted" font-size="11" font-weight="400" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">Snapshot 2026-11-02 10:12 UTC</text>
+</svg>
