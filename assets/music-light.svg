@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="268" viewBox="0 0 840 268" role="img" aria-labelledby="title desc">
 <title id="title">Recent listening · Beteix on ListenBrainz</title>
-<desc id="desc">traitor by Olivia Rodrigo, 2026-11-04 06:35 UTC; Hopedrunk Everasking by Caroline Polachek, 2026-11-04 06:32 UTC; Whenever Wherever Whatever (Remastered 2021) by Maxwell, 2026-11-04 06:28 UTC</desc>
+<desc id="desc">Man In My Life by Mýa, 2026-11-04 17:17 UTC; Touch A Girl by FKA twigs, 2026-11-04 17:13 UTC; software update by yeule, 2026-11-04 17:10 UTC</desc>
 <style>.bg{fill:#fafbfc}.text{fill:#1a1e26}.muted{fill:#636b75}.accent{fill:#2f6f5e}.warm{fill:#94653c}.border{fill:#dce0e6}</style>
 <rect x="0.5" y="0.5" width="839" height="267" rx="8" fill="#fafbfc" stroke="#dce0e6"/>
 <defs><clipPath id="recent-track"><rect x="28" y="48" width="466" height="176"/></clipPath><clipPath id="recent-artist"><rect x="28" y="80" width="294" height="144"/></clipPath><clipPath id="top-artist"><rect x="546" y="48" width="266" height="176"/></clipPath></defs>
 <text x="28" y="32" class="accent" font-size="11" font-weight="600" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">RECENT SCROBBLES</text>
 <text x="546" y="32" class="accent" font-size="11" font-weight="600" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">TOP ARTISTS · OCT 2026</text>
 <path d="M520 24V222" stroke="#dce0e6"/>
-<text x="28" y="76" class="text" font-size="23" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">traitor</text>
-<text x="28" y="98" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">Olivia Rodrigo</text>
-<text x="494" y="98" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">04 Nov 06:35 UTC</text>
-<text x="28" y="137" class="text" font-size="18" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Hopedrunk Everasking</text>
-<text x="28" y="159" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">Caroline Polachek</text>
-<text x="494" y="159" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">04 Nov 06:32 UTC</text>
-<text x="28" y="198" class="text" font-size="18" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Whenever Wherever Whatever (Remastered 2021)</text>
-<text x="28" y="220" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">Maxwell</text>
-<text x="494" y="220" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">04 Nov 06:28 UTC</text>
+<text x="28" y="76" class="text" font-size="23" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Man In My Life</text>
+<text x="28" y="98" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">Mýa</text>
+<text x="494" y="98" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">04 Nov 17:17 UTC</text>
+<text x="28" y="137" class="text" font-size="18" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Touch A Girl</text>
+<text x="28" y="159" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">FKA twigs</text>
+<text x="494" y="159" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">04 Nov 17:13 UTC</text>
+<text x="28" y="198" class="text" font-size="18" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">software update</text>
+<text x="28" y="220" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">yeule</text>
+<text x="494" y="220" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">04 Nov 17:10 UTC</text>
 <text x="546" y="75" class="text" font-size="17" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#top-artist)">Ethel Cain</text>
 <text x="546" y="97" class="muted" font-size="12" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif">555 plays</text>
 <text x="546" y="136" class="text" font-size="17" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#top-artist)">Mariah Carey</text>
@@ -23,6 +23,6 @@
 <text x="546" y="197" class="text" font-size="17" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#top-artist)">Lana Del Rey</text>
 <text x="546" y="219" class="muted" font-size="12" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif">433 plays</text>
 <path d="M28 226H812" stroke="#dce0e6"/>
-<text x="28" y="248" class="muted" font-size="10" font-weight="400" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">Snapshot 2026-11-04 06:39 UTC</text>
+<text x="28" y="248" class="muted" font-size="10" font-weight="400" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">Snapshot 2026-11-04 17:21 UTC</text>
 <text x="812" y="248" class="muted" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">Stats updated 2026-10-24</text>
 </svg>
