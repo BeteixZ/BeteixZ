@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="268" viewBox="0 0 840 268" role="img" aria-labelledby="title desc">
 <title id="title">Recent listening · Beteix on ListenBrainz</title>
-<desc id="desc">Fear of Flying by Mýa, 2026-11-06 04:18 UTC; Moonjoose by Sleepy House, 2026-11-06 04:13 UTC; Alone In Love by Mariah Carey, 2026-11-06 04:09 UTC</desc>
+<desc id="desc">Evolution (Goldenscan remix) by 浜崎あゆみ, 2026-11-07 13:56 UTC; Immature (Koglin &amp; Heath remix) by 浜崎あゆみ, 2026-11-07 13:52 UTC; Fly High (Voodoo &amp; Serano remix) by 浜崎あゆみ, 2026-11-07 13:49 UTC</desc>
 <style>.bg{fill:#1a1e26}.text{fill:#d8dce3}.muted{fill:#9aa3ae}.accent{fill:#77c6a5}.warm{fill:#d0aa7a}.border{fill:#363d49}</style>
 <rect x="0.5" y="0.5" width="839" height="267" rx="8" fill="#1a1e26" stroke="#363d49"/>
 <defs><clipPath id="recent-track"><rect x="28" y="48" width="466" height="176"/></clipPath><clipPath id="recent-artist"><rect x="28" y="80" width="294" height="144"/></clipPath><clipPath id="top-artist"><rect x="546" y="48" width="266" height="176"/></clipPath></defs>
 <text x="28" y="32" class="accent" font-size="11" font-weight="600" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">RECENT SCROBBLES</text>
 <text x="546" y="32" class="accent" font-size="11" font-weight="600" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">TOP ARTISTS · OCT 2026</text>
 <path d="M520 24V222" stroke="#363d49"/>
-<text x="28" y="76" class="text" font-size="23" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Fear of Flying</text>
-<text x="28" y="98" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">Mýa</text>
-<text x="494" y="98" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">06 Nov 04:18 UTC</text>
-<text x="28" y="137" class="text" font-size="18" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Moonjoose</text>
-<text x="28" y="159" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">Sleepy House</text>
-<text x="494" y="159" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">06 Nov 04:13 UTC</text>
-<text x="28" y="198" class="text" font-size="18" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Alone In Love</text>
-<text x="28" y="220" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">Mariah Carey</text>
-<text x="494" y="220" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">06 Nov 04:09 UTC</text>
+<text x="28" y="76" class="text" font-size="23" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Evolution (Goldenscan remix)</text>
+<text x="28" y="98" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">浜崎あゆみ</text>
+<text x="494" y="98" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">07 Nov 13:56 UTC</text>
+<text x="28" y="137" class="text" font-size="18" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Immature (Koglin &amp; Heath remix)</text>
+<text x="28" y="159" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">浜崎あゆみ</text>
+<text x="494" y="159" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">07 Nov 13:52 UTC</text>
+<text x="28" y="198" class="text" font-size="18" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-track)">Fly High (Voodoo &amp; Serano remix)</text>
+<text x="28" y="220" class="muted" font-size="13" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#recent-artist)">浜崎あゆみ</text>
+<text x="494" y="220" class="warm" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">07 Nov 13:49 UTC</text>
 <text x="546" y="75" class="text" font-size="17" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#top-artist)">Ethel Cain</text>
 <text x="546" y="97" class="muted" font-size="12" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif">555 plays</text>
 <text x="546" y="136" class="text" font-size="17" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#top-artist)">Mariah Carey</text>
@@ -23,6 +23,6 @@
 <text x="546" y="197" class="text" font-size="17" font-weight="600" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif" clip-path="url(#top-artist)">Lana Del Rey</text>
 <text x="546" y="219" class="muted" font-size="12" font-weight="400" text-anchor="start" font-family="'Segoe UI',Arial,sans-serif">433 plays</text>
 <path d="M28 226H812" stroke="#363d49"/>
-<text x="28" y="248" class="muted" font-size="10" font-weight="400" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">Snapshot 2026-11-07 13:15 UTC</text>
+<text x="28" y="248" class="muted" font-size="10" font-weight="400" text-anchor="start" font-family="'Cascadia Code',Consolas,monospace">Snapshot 2026-11-07 19:29 UTC</text>
 <text x="812" y="248" class="muted" font-size="10" font-weight="400" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace">Stats updated 2026-10-24</text>
 </svg>
